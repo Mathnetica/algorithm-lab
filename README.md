@@ -14,15 +14,23 @@ The repository serves as a workspace for exploring computational ideas, testing 
 Research may include:
 
 * algorithm design and optimization
-* search and ranking
-* graph algorithms
+* search and ranking algorithms
+* graph algorithms and network analysis
 * artificial intelligence and machine learning
 * multi-agent systems
+* quantum computing and quantum algorithms
 * information retrieval
 * scheduling and resource allocation
 * data structures and data systems
 * computational optimization
+* decision-support algorithms
+* organizational and workflow optimization
+* software delivery and engineering systems
+* computational methods for Agile and Scrum
+* enterprise architecture analysis and optimization
+* process modeling and simulation
 * experimental software engineering
+
 
 The scope will evolve as new research questions and experimental projects are introduced.
 
